@@ -46,3 +46,29 @@ This dashboard helps users:
 * Evaluate sales-person performance
 * Analyze sales trends over time
 * Use KPIs to support data-driven decisions
+
+  ## 🛠️ Technologies Used
+
+* 📊 **Microsoft Power BI** – Interactive dashboard development and visualization
+* 📗 **Microsoft Excel** – Source data and data preparation
+* 📈 **Data Analysis** – Sales, product, country, and salesperson analysis
+* 📌 **KPIs** – Total Sales Amount and Total Boxes Sold
+* 🎛️ **Interactive Slicers** – Date-based filtering and analysis
+
+## 📂 Project Files
+
+| File                                 | Description             |
+| ------------------------------------ | ----------------------- |
+| `SALES DATA.pbix`                    | Power BI dashboard file |
+| `sample-chocolate-sales-data-1.xlsx` | Source sales dataset    |
+| `Screenshot 2026-08-31 001743.png`   | Dashboard preview       |
+| `README.md`                          | Project documentation   |
+
+## 📋 Project Summary
+
+This project demonstrates the development of an interactive **Chocolate Sales Analysis Dashboard using Microsoft Power BI**.
+
+The dashboard transforms sales data into interactive visualizations that allow users to analyze performance by **time period, country, salesperson, and product**. Key performance indicators provide a quick overview of sales activity, while interactive date filtering supports focused analysis.
+
+The project demonstrates practical skills in **data analysis, business intelligence, dashboard development, data visualization, and Excel-based data handling**.
+
