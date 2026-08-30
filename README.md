@@ -1,3 +1,6 @@
+## 🖼️ Dashboard Preview
+
+![Chocolate Sales Power BI Dashboard](Screenshot%202026-08-31%20001743.png)
 ## 🔍 Dashboard Analysis
 
 The Power BI dashboard provides interactive analysis across multiple dimensions of the chocolate sales dataset.
